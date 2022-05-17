@@ -1,6 +1,6 @@
 module.exports = {
   /* eslint-disable */
-  githubSrc: 'https://raw.githubusercontent.com/Rahul-Brito/covid19/master/protocol/Covid19_schema',
+  githubSrc: 'https://raw.githubusercontent.com/sensein/covid19/master/protocol/Covid19_schema',
   startButton: {
     "en": 'Join',
     "es": 'Participar'
